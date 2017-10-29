@@ -1,0 +1,8 @@
+Partial Least Square Regression: http://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.PLSRegression.html
+
+PLS regression examples: https://stackoverflow.com/questions/41188410/how-obtain-the-intercept-of-the-pls-regression-sklearn
+
+PLS simplified explaination: https://stats.stackexchange.com/questions/286178/python-sklearn-plsregression-why-is-t-x0w-scores-scaled-data-weights
+
+Abstract on SIMPLS: http://www.sciencedirect.com/science/article/pii/016974399385002X
+
